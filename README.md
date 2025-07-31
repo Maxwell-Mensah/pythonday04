@@ -1,6 +1,6 @@
 # pythonday04
-Ce lab m'a permis majoritairement à comprendre l'importance des **modules** dans l'organisation d'un projet informatique
-Ce read_me va porter majoritairement alors sur l'imporatnce des **modules/namespace** et ce qui les rends meilleures face à l'utilisation des inners classes
+Ce lab m'a permis majoritairement à comprendre l'importance des **modules** dans l'organisation d'un projet informatique.
+Ce read_me va porter majoritairement alors sur l'imporatnce des **modules/namespace** et ce qui les rends meilleures face à l'utilisation des inners classes.
 ## Modules
 # Avantages
 - Lisibilité (Tu sépares ton code dans plusieurs fichiers : plus propre et clair.)
